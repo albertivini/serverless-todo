@@ -1,0 +1,16 @@
+[
+    {
+        "id": "uuidValue",
+        "user_id": "uuid",
+        "title": "To Do",
+        "deadline": "2022-02-15T20:00:00.000Z",
+        "done": false
+    },
+    {
+        "id": "uuidValue",
+        "user_id": "uuid",
+        "title": "To Do 2",
+        "deadline": "2022-02-10T20:00:00.000Z",
+        "done": true
+    }
+]
